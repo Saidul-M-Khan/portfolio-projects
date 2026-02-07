@@ -78,9 +78,10 @@ Medical research—particularly in neurological diseases like Multiple Sclerosis
 Patients, caregivers, nonprofit advocates, and researchers often struggle to:
 - Find specific answers within long documents  
 - Understand evolving research outcomes  
-- Translate academic language into actionable knowledge  
-
+- Translate academic language into actionable knowledge
+  
 🔗 Repo: https://github.com/Saidul-M-Khan/MS-Assistant
+
 ---
 
 ## ✍️ Signature Verification using VGG-19  
